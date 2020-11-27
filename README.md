@@ -1,4 +1,3 @@
-# stockSentimentAnalytics
 # Stock Sentiment Analyses Using News Headlines
 Applied Bag of Words Model and predicted sentiments of Stock by Random Forest technique and multinomial Naive Bayes classification models.
 
@@ -16,9 +15,11 @@ The dataset consists of  features include Date from 2000 to 2016, Label either 1
 
 # Understanding files and folders in project :
 code.py - Contains the code for the project
+
 StockData.csv - Dataset
-Setting up the project :
-# The following libraries needs to be installed for the program to run.
+
+# Setting up the project :
+The following libraries needs to be installed for the program to run.
 
 Numpy
 
